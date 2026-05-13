@@ -12,7 +12,7 @@ By adding **fivemsorgu** ("the Bot") to your Discord server or using any of its 
 
 - **Support Server:** [discord.gg/erenlol](https://discord.gg/erenlol)
 - **Bot Name:** fivemsorgu
-- **Developer:** Available via the support server above
+- **Developer:** viqole_
 
 ## 3. Description of Services
 
